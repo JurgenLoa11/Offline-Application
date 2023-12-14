@@ -1,6 +1,1 @@
-# Offline-Application
-Memudahkan dan mepercepat proses perusahaan dalam melakukan absensi
-karyawannya yang berjumlah cukup banyak secara akurat dengan waktu yang
-real. Karena dengan adanya aplikasi ini perusahaan dapat melihat
-karyawan-karyawan nya apakah mereka datang pada tepat waktu dan juga dapat
-menghitung jadi yang akan diterima karyawan.
+Facilitating and expediting the company's attendance process for a sizable workforce accurately and in real-time. This application enables the company to track employees' punctuality, facilitating efficient payroll calculations based on attendance records.
